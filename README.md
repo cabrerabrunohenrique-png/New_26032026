@@ -45,5 +45,6 @@
 A cor atual do botão é ( nao funciona)`#d32f2f`
 
 
-- [x] #739
-- [ ] teste : tada :
+[^1]: teste
+
+Aqui estou fazendo uma citação interna, ou seja, criando uma nova pagina [^1]
