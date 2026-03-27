@@ -42,4 +42,8 @@
     ***<ins> I am stundying compurter now </ins>***
 
 
-A cor atual do botão é `#d32f2f`
+A cor atual do botão é ( nao funciona)`#d32f2f`
+
+
+- [x] #739
+- [ ] teste : tada :
