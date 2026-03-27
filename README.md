@@ -50,7 +50,7 @@ My favorete color is a brown (it doesn't function )`#d32f2f`
 Clique [^1]
 
 > [!NOTE]
-> USEFUL INFORMATION THAT USERS SHOULD KNOW
+> example one
 
 > [!TIP]
-> EXEMPLO DOIS
+> example two
