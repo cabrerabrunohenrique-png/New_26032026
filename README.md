@@ -47,4 +47,4 @@ A cor atual do botão é ( nao funciona)`#d32f2f`
 
 [^1]: teste
 
-Aqui estou fazendo uma citação interna, ou seja, criando uma nova pagina [^1]
+Clique [^1]
