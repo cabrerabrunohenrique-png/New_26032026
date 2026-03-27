@@ -42,7 +42,7 @@
     ***<ins> I am stundying compurter now </ins>***
 
 
-A cor atual do botão é ( nao funciona)`#d32f2f`
+My favorete color is a brown (it doesn't function )`#d32f2f`
 
 
 [^1]: teste
@@ -51,3 +51,6 @@ Clique [^1]
 
 > [!NOTE]
 > USEFUL INFORMATION THAT USERS SHOULD KNOW
+
+[! TIP]
+>EXEMPLO DOIS
