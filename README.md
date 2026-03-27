@@ -48,3 +48,6 @@ A cor atual do botão é ( nao funciona)`#d32f2f`
 [^1]: teste
 
 Clique [^1]
+
+> [!NOTE]
+> USEFUL INFORMATION THAT USERS SHOULD KNOW
